@@ -14,6 +14,7 @@
 		354818C824280E01007B76B8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 354818C724280E01007B76B8 /* Assets.xcassets */; };
 		354818CB24280E01007B76B8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 354818C924280E01007B76B8 /* LaunchScreen.storyboard */; };
 		354818D624280E02007B76B8 /* DoggyAgeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 354818D524280E02007B76B8 /* DoggyAgeTests.swift */; };
+		354818E124280F05007B76B8 /* cachorro.png in Resources */ = {isa = PBXBuildFile; fileRef = 354818E024280F05007B76B8 /* cachorro.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		354818D124280E02007B76B8 /* DoggyAgeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DoggyAgeTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		354818D524280E02007B76B8 /* DoggyAgeTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoggyAgeTests.swift; sourceTree = "<group>"; };
 		354818D724280E02007B76B8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		354818E024280F05007B76B8 /* cachorro.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = cachorro.png; path = "imagens-app-idade-cachorro/cachorro.png"; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 		354818BD24280E00007B76B8 /* DoggyAge */ = {
 			isa = PBXGroup;
 			children = (
+				354818E024280F05007B76B8 /* cachorro.png */,
 				354818BE24280E00007B76B8 /* AppDelegate.swift */,
 				354818C024280E00007B76B8 /* SceneDelegate.swift */,
 				354818C224280E00007B76B8 /* ViewController.swift */,
@@ -180,6 +183,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				354818E124280F05007B76B8 /* cachorro.png in Resources */,
 				354818CB24280E01007B76B8 /* LaunchScreen.storyboard in Resources */,
 				354818C824280E01007B76B8 /* Assets.xcassets in Resources */,
 				354818C624280E00007B76B8 /* Main.storyboard in Resources */,
